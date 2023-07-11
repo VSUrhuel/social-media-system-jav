@@ -3,8 +3,6 @@
 This repository  provides a set of classes for simulating a basic chat application. It includes classes for managing users, posts, comments, group chats, and messages. This serves as a foundation for building chat-based applications.
 
 ## Classes
-The library includes the following classes:
-
 ### Comment
 Represents a comment made on a post.
 
